@@ -3,3 +3,5 @@ spring:
     name: ln-config
 name: LNBizId
 address: LN 3p Call
+welcome:
+  message: Hi from Ln
