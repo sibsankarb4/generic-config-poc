@@ -1,5 +1,5 @@
 spring:
   application:
-    name: config-socure
+    name: socure-config
 name: socure
 address: Socure 3p Call
