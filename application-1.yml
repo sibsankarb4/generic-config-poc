@@ -1,2 +1,5 @@
-name: DB
-address: US
+spring:
+  application:
+    name: LN
+name: LNBizId
+address: LN 3p Call
