@@ -1,2 +1,5 @@
-name: Bala
-address: Chennai
+spring:
+  application:
+    name: config-socure
+name: socure
+address: Socure 3p Call
