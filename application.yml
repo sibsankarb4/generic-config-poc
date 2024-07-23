@@ -1,2 +1,5 @@
+spring:
+  application:
+    name: config-default
 name: Sibsankar
 address: India
