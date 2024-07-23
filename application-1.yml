@@ -1,5 +1,5 @@
 spring:
   application:
-    name: LN
+    name: config-LN
 name: LNBizId
 address: LN 3p Call
